@@ -5,7 +5,7 @@ language.
 
 ## License
 
-collectd Go plugins are licensed under the *ISC License*, unless otherwise
+collectd Python plugins are licensed under the *ISC License*, unless otherwise
 stated. The full text of the ISC License can be found in the `LICENSE` file.
 
 ## Authors
